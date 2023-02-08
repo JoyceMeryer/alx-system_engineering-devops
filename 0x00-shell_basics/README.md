@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files (starting with .). Use the long format.
+ 3 different commands that are under task 5
