@@ -1,1 +1,1 @@
-0. Hello World
+Write a script that displays a confused smiley 
